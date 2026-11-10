@@ -58,7 +58,7 @@ Ejercicios resueltos de la materia Arquitectura de Computadoras (3638) - 2C 2021
 - Aplicaciones prácticas.  
  
 ## Unidad 2: Arquitectura de Computadoras 
- 	 
+![Arquitectura de Computadoras](https://scontent.faep28-2.fna.fbcdn.net/v/t39.30808-6/637187224_1320817770093395_6619486516018084071_n.jpg?stp=dst-jpg_tt6&cstp=mx1650x2048&ctp=s1650x2048&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFQUo_M8F5LhUkbDKFfN3Bd7ML2VyaqnQbswvZXJqqdBk06-z80flJg7SvgLcgTxnQdimFgCqeRELmu6MijTebD&_nc_ohc=fA3XECd7e30Q7kNvwHiZINn&_nc_oc=Adr7wcxdO4ZWoJgmRzMsiALRih5LtOooXAuJm4svR961PNwsHPA_a-B8Wfq38DvcpBsGiK7WrDDXm2yTO3uQdocp&_nc_zt=23&_nc_ht=scontent.faep28-2.fna&_nc_gid=mgt9iOFpFRCwpsZAB2_xCA&_nc_ss=7b2a8&oh=00_AQQ_A3rJQngKWPNGzo3JcT9bOOPkugB-YeAIXfk_jYUkEA&oe=6AF86CE5)
 ### 2.1 - Arquitectura de computadoras
 - Conceptos de arquitectura y estructura.
 - Funciones básicas de un computador.
