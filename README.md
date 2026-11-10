@@ -28,9 +28,9 @@ Ejercicios resueltos de la materia Arquitectura de Computadoras (3638) - 2C 2021
 - Repaso de sistemas de numeración.
 - Repaso de lógica combinacional.
 - Lógica secuencial.
- - Flip - Flop RS sincrónico.
- - Flip - Flop tipo D o Latch
- - Flip - Flop tipo T.
+  - Flip - Flop RS sincrónico.
+  - Flip - Flop tipo D o Latch
+  - Flip - Flop tipo T.
 - Diagramas de tiempos.
 - Contadores 2^n.
 - Contadores 2*n.
