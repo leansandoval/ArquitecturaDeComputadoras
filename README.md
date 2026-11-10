@@ -24,7 +24,7 @@ Ejercicios resueltos de la materia Arquitectura de Computadoras (3638) - 2C 2021
 * Rodriguez, Carlos Alberto
 
 ## Unidad 0: Introducción a las Maquinas de Estados
- 
+![Maquina de Estado](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdJ3MiQDjnR9-BrtwQmfc5WXyqGoDyqSrvg3vTzVT9xQ_RRR_yYimsYpwU&s=10)
 - Repaso de sistemas de numeración.
 - Repaso de lógica combinacional.
 - Lógica secuencial.
