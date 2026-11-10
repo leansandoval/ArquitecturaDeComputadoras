@@ -1,5 +1,5 @@
 # Arquitectura de Computadoras
-Ejercicios resueltos de la materia Arquitectura de Computadoras (3638). Realizado en el Segundo Cuatrimestre 2021.
+Ejercicios resueltos de la materia Arquitectura de Computadoras (3638) - 2C 2021 - UNLaM.
 
 ## Información de la Asignatura
 * **Carrera**: Ingeniería en Informática
