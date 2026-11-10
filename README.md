@@ -303,8 +303,8 @@
 ---
 
 ## 🛠️ Herramientas Utilizadas
-* **[Logisim]**: Para simulaciones de circuitos lógicos y máquinas de estados.
-* **[Simulador Assembler THRSim11]**: Para la ejecución y prueba de código de bajo nivel.
+* **Logisim**: Para simulaciones de circuitos lógicos y máquinas de estados.
+* **Simulador Assembler THRSim11**: Para la ejecución y prueba de código de bajo nivel.
 * **Lenguajes**: Assembly.
 
 ## 📁 Estructura del Proyecto
