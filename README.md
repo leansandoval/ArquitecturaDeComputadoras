@@ -303,11 +303,9 @@
 ---
 
 ## 🛠️ Herramientas Utilizadas
-> *📝 Nota: Agrega aquí los programas que utilizaste para resolver los ejercicios.*
-
-* **[Logisim / Proteus]**: Para simulaciones de circuitos lógicos y máquinas de estados.
-* **[Simulador Assembler MSX88 / Emu8086]**: Para la ejecución y prueba de código de bajo nivel.
-* **Lenguajes**: Assembly, C (si aplica).
+* **[Logisim]**: Para simulaciones de circuitos lógicos y máquinas de estados.
+* **[Simulador Assembler THRSim11]**: Para la ejecución y prueba de código de bajo nivel.
+* **Lenguajes**: Assembly.
 
 ## 📁 Estructura del Proyecto
 > *📝 Nota: Esto ayuda a entender cómo están organizados los archivos en tu repositorio.*
