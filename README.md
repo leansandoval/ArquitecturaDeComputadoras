@@ -59,54 +59,54 @@ Ejercicios resueltos de la materia Arquitectura de Computadoras (3638) - 2C 2021
  
 ## Unidad 2: Arquitectura de Computadoras 
  	 
-- 2.1 - Arquitectura de computadoras
-  - Conceptos de arquitectura y estructura.
-  - Funciones básicas de un computador.
-  - Relación entre las funciones requeridas y la arquitectura del sistema.
-  - La arquitectura Von Neumann.
-  - Descripción básica de las unidades funcionales.
-  - Unidad central de proceso.
-  - Buses.
-  - Unidad de control.
-  - Unidad aritmético lógica.
-  - Memoria central.
-  - Interfaces de entrada-salida.
-  - Arquitecturas no Von Neumann.
-  - Diferencias y características.
-  - Análisis de rendimientos.
-  - Formas de mejorar el rendimiento de un sistema computador.
-- 2.2 - Unidad central de procesos
-  - Estructura interna.
-  - Registros de la U.C.P.
-  - Registros de uso general y registros dedicados.
-  - Interconexión con los restantes bloques del sistema.
-  - Funcionamiento de la Unidad aritmético lógica.
-  - Descripción de funcionamiento de la unidad de control.
-- 2.3 - Concepto de instrucción
-  - Código de operación.
-  - Operandos.
-  - Instrucciones de doble operando y operando único.
-  - Tipos de instrucción.
-  - Vinculación del juego de instrucciones de un procesador con la estructura del mismo.
-- 2.4 - Interconexión entre partes
-  - Bus.
-  - Concepto.
-  - Bus sincrónico y asincrónico.
-  - Protocolos de funcionamiento.
-  - Configuración maestro esclavo.
-  - Handshake.
-  - Otros protocolos.
-- 2.5 - Ejecución de una instrucción por parte de la C.P.U.
-  - Ciclos de instrucción.
-  - Registros intervinientes.
-  - Ciclo de búsqueda y ejecución.
-  - Ejecución de un programa.
-- 2.6 - Direccionamiento de memoria
-  - Modos de direccionamiento.
-  - Direccionamiento directo e indirecto.
-  - Direccionamiento absoluto y relativo.
-  - Instrucciones que no acceden a memoria.
-  - Direccionamiento implícito.
+### 2.1 - Arquitectura de computadoras
+- Conceptos de arquitectura y estructura.
+- Funciones básicas de un computador.
+- Relación entre las funciones requeridas y la arquitectura del sistema.
+- La arquitectura Von Neumann.
+- Descripción básica de las unidades funcionales.
+- Unidad central de proceso.
+- Buses.
+- Unidad de control.
+- Unidad aritmético lógica.
+- Memoria central.
+- Interfaces de entrada-salida.
+- Arquitecturas no Von Neumann.
+- Diferencias y características.
+- Análisis de rendimientos.
+- Formas de mejorar el rendimiento de un sistema computador.
+### 2.2 - Unidad central de procesos
+- Estructura interna.
+- Registros de la U.C.P.
+- Registros de uso general y registros dedicados.
+- Interconexión con los restantes bloques del sistema.
+- Funcionamiento de la Unidad aritmético lógica.
+- Descripción de funcionamiento de la unidad de control.
+### 2.3 - Concepto de instrucción
+- Código de operación.
+- Operandos.
+- Instrucciones de doble operando y operando único.
+- Tipos de instrucción.
+- Vinculación del juego de instrucciones de un procesador con la estructura del mismo.
+### 2.4 - Interconexión entre partes
+- Bus.
+- Concepto.
+- Bus sincrónico y asincrónico.
+- Protocolos de funcionamiento.
+- Configuración maestro esclavo.
+- Handshake.
+- Otros protocolos.
+### 2.5 - Ejecución de una instrucción por parte de la C.P.U.
+- Ciclos de instrucción.
+- Registros intervinientes.
+- Ciclo de búsqueda y ejecución.
+- Ejecución de un programa.
+### 2.6 - Direccionamiento de memoria
+- Modos de direccionamiento.
+- Direccionamiento directo e indirecto.
+- Direccionamiento absoluto y relativo.
+- Instrucciones que no acceden a memoria.
+- Direccionamiento implícito.
  
 ## Unidad 3: Introducción a los Lenguajes de Programación 
  
