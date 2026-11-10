@@ -110,79 +110,79 @@ Ejercicios resueltos de la materia Arquitectura de Computadoras (3638) - 2C 2021
  
 ## Unidad 3: Introducción a los Lenguajes de Programación 
  
-- 3.1 - Lenguaje de máquina
-  - Estructura de un programa en lenguaje de máquina.
-- 3.2 - Lenguaje simbólico.
-  - Ensamblador.
-  - Conversión a lenguaje de máquina.
-  - Códigos mnemotécnicos.
-  - Descripción de funcionamiento de un programa ensamblador.
-- 3.3 - Lenguaje de alto nivel.
-  - Ventajas y aplicaciones.
-  - Programa compilador.
-  - Programa interprete.
-  - Diferencias entre lenguajes interpretados y compilados.
-  - Ventajas y desventajas de cada uno.
+### 3.1 - Lenguaje de máquina
+- Estructura de un programa en lenguaje de máquina.
+### 3.2 - Lenguaje simbólico.
+- Ensamblador.
+- Conversión a lenguaje de máquina.
+- Códigos mnemotécnicos.
+- Descripción de funcionamiento de un programa ensamblador.
+### 3.3 - Lenguaje de alto nivel.
+- Ventajas y aplicaciones.
+- Programa compilador.
+- Programa interprete.
+- Diferencias entre lenguajes interpretados y compilados.
+- Ventajas y desventajas de cada uno.
 
 ## Unidad 4: Unidad de Memoria  
  
-- 4.1 - La función de almacenamiento y su implementación.
-  - Jerarquías en las estructuras de memoria de un computador.
-  - Tecnologías de memorias aplicables a las distintas jerarquías.
-  - Clasificación de memorias.
-  - Tipos de memoria.
-  - Criterios para la clasificación.  
-- 4.2 - Memoria principal.
-  - Capacidad y estructura.
-  - Vinculación con los otros bloques de la computadora.
-  - Características circuitales.
-  - Configuraciones típicas.
-  - Consideraciones tecnológicas. 
-- 4.3 - Memoria caché.
-  - Capacidad y estructura.
-  - Fundamentos de su utilización.
-  - Vinculación con los otros bloques de la computadora.
-  - Características circuitales.
-  - Configuraciones típicas.
-  - Administración de la memoria cache.
-  - Técnicas de asignación.
-  - Técnicas de reemplazo.
-  - Influencia sobre el rendimiento de la CPU.
-  - Tiempo medio de acceso a memoria.  
-- 4.4 - Elementos para almacenamiento secundario.
-  - Características.
-  - Principios de funcionamiento.  
+### 4.1 - La función de almacenamiento y su implementación.
+- Jerarquías en las estructuras de memoria de un computador.
+- Tecnologías de memorias aplicables a las distintas jerarquías.
+- Clasificación de memorias.
+- Tipos de memoria.
+- Criterios para la clasificación.  
+### 4.2 - Memoria principal.
+- Capacidad y estructura.
+- Vinculación con los otros bloques de la computadora.
+- Características circuitales.
+- Configuraciones típicas.
+- Consideraciones tecnológicas. 
+### 4.3 - Memoria caché.
+- Capacidad y estructura.
+- Fundamentos de su utilización.
+- Vinculación con los otros bloques de la computadora.
+- Características circuitales.
+- Configuraciones típicas.
+- Administración de la memoria cache.
+- Técnicas de asignación.
+- Técnicas de reemplazo.
+- Influencia sobre el rendimiento de la CPU.
+- Tiempo medio de acceso a memoria.  
+### 4.4 - Elementos para almacenamiento secundario.
+- Características.
+- Principios de funcionamiento.  
  
 ## Unidad 5: Comunicación con el Mundo Exterior 
  
-- 5.1 - Elementos o sistemas periféricos.
-  - Concepto.
-  - Interfaces de entrada-salida. 
-- 5.2 - Manejo de entrada-salida.
-  - Vinculación de la CPU con sus interfaces de entradasalida.
-  - Control por programa.
-  - Control por interrupciones.
-  - Control por acceso directo a memoria. 
-- 5.3 - Priorización de periféricos.
-  - Criterios de priorización.
-  - Implementación.
-  - Prioridad establecida por hardware o software.
-  - Técnicas de implementación de interrupciones.
-  - Tiempo real.  
-- 5.4 - Periféricos estándar.
-  - Vinculación entre la interfaz de entrada salida y el periférico controlado.
-  - Distintos tipos de interfaz.
-  - Interfaces de comunicaciones.
-  - Comunicación serie.
-  - UART.
-  - Comunicación serie sincrónica y asincrónica.
-  - Velocidad de transmisión.
-  - Baud.
-  - Ventajas y desventajas de las comunicaciones serie respecto de la comunicación paralelo.
-  - Protocolos y normas de comunicación.
-  - USB. 
-- 5.5 - Interfaces dedicadas
-  - Controladores. 
+### 5.1 - Elementos o sistemas periféricos.
+- Concepto.
+- Interfaces de entrada-salida. 
+### 5.2 - Manejo de entrada-salida.
+- Vinculación de la CPU con sus interfaces de entradasalida.
+- Control por programa.
+- Control por interrupciones.
+- Control por acceso directo a memoria. 
+### 5.3 - Priorización de periféricos.
+- Criterios de priorización.
+- Implementación.
+- Prioridad establecida por hardware o software.
+- Técnicas de implementación de interrupciones.
+- Tiempo real.  
+### 5.4 - Periféricos estándar.
+- Vinculación entre la interfaz de entrada salida y el periférico controlado.
+- Distintos tipos de interfaz.
+- Interfaces de comunicaciones.
+- Comunicación serie.
+- UART.
+- Comunicación serie sincrónica y asincrónica.
+- Velocidad de transmisión.
+- Baud.
+- Ventajas y desventajas de las comunicaciones serie respecto de la comunicación paralelo.
+- Protocolos y normas de comunicación.
+- USB. 
+### 5.5 - Interfaces dedicadas
+- Controladores. 
  
 ## Unidad 6: Introducción a las Arquitecturas Modernas 
  
