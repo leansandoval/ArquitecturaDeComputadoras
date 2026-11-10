@@ -109,7 +109,7 @@ Ejercicios resueltos de la materia Arquitectura de Computadoras (3638) - 2C 2021
 - Direccionamiento implícito.
  
 ## Unidad 3: Introducción a los Lenguajes de Programación 
- 
+![Lenguaje Ensamblador](https://instagram.fepa1-1.fna.fbcdn.net/v/t39.30808-6/742473322_1302344411922233_8150825622133255912_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=MzkzNjk3ODMyMzE0NjcyMTE4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=G4MAw5qTM3AQ7kNvwFBYAYC&_nc_oc=Ado438i33gKW4hHOemK649_ruNUUxEGegWJC_fugi1DCw7nVkh700uaG6W5E8-Rf8nq9AJXE_hZeyo1RdcM1yL5-&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa1-1.fna&_nc_gid=UpVo2axj-BG6tqTLYKfUUQ&_nc_ss=7a22e&oh=00_AQQb2H0tFlLMP4nLV4q35pWwxH2yxIeA-Ku3VCdIrnPGMw&oe=6AF87ADA)
 ### 3.1 - Lenguaje de máquina
 - Estructura de un programa en lenguaje de máquina.
 ### 3.2 - Lenguaje simbólico.
