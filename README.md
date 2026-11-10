@@ -125,7 +125,7 @@ Ejercicios resueltos de la materia Arquitectura de Computadoras (3638) - 2C 2021
 - Ventajas y desventajas de cada uno.
 
 ## Unidad 4: Unidad de Memoria  
- 
+![Tipos de Memorias](https://sistemasoperativosunivia.wordpress.com/wp-content/uploads/2014/12/blog002.png)
 ### 4.1 - La función de almacenamiento y su implementación.
 - Jerarquías en las estructuras de memoria de un computador.
 - Tecnologías de memorias aplicables a las distintas jerarquías.
