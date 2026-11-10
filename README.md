@@ -39,7 +39,7 @@ Ejercicios resueltos de la materia Arquitectura de Computadoras (3638) - 2C 2021
 - Maquinas de estados. 
  
 ## Unidad 1: Tecnologia de los Circuitos Digitales
- ![Circuitos Digitales](https://www.researchgate.net/profile/Vanja-Lukovic/publication/309907692/figure/fig11/AS:427301352546316@1478887989361/Digital-circuit-with-two-inputs-OR-and-AND-gates.png)
+ ![Circuito Digital](https://i0.wp.com/circuitosdigitalesudblog.wordpress.com/wp-content/uploads/2020/05/circuito-4-decodificador-2.png?ssl=1)
 - Introducción a la tecnología de circuitos integrados.
 - Concepto de circuito semiconductor.
 - Diodo.
