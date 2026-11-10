@@ -153,8 +153,8 @@ Ejercicios resueltos de la materia Arquitectura de Computadoras (3638) - 2C 2021
 - Características.
 - Principios de funcionamiento.  
  
-## Unidad 5: Comunicación con el Mundo Exterior 
- 
+## Unidad 5: Comunicación con el Mundo Exterior
+![Perifericos](https://instagram.fepa1-1.fna.fbcdn.net/v/t39.30808-6/758617466_1317694963720511_6322425695492387749_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1MTM4MzYxNjM2MTg5MDU3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Wm8bdQCiMUwQ7kNvwH9_PZA&_nc_oc=AdpGGphUptnPfAWlHYBH1Kw_Jkp9kDk3bZVGLQsA5edpRfNM3ZQqgckzuxsj-UXdWTgZkNgulPMwN0C0SB5M1hOI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa1-1.fna&_nc_gid=itCGc9AcbL-McrKVeHFJZg&_nc_ss=7a22e&oh=00_AQSo07FScq8JGdiwOhSQh79FAMQ2xcqC6UiZUgCR0_sxkQ&oe=6AF8658A)
 ### 5.1 - Elementos o sistemas periféricos.
 - Concepto.
 - Interfaces de entrada-salida. 
@@ -185,7 +185,7 @@ Ejercicios resueltos de la materia Arquitectura de Computadoras (3638) - 2C 2021
 - Controladores. 
  
 ## Unidad 6: Introducción a las Arquitecturas Modernas 
- 
+![Arquitectura CISC vs RISC](https://media.licdn.com/dms/image/v2/D4D22AQGjaf442zahlw/feedshare-shrink_1280/B4DZXbkBP6G8Ao-/0/1743145419982?e=2147483647&v=beta&t=c1icHTSizcKpSULpSAmxV8Owpv9lxd_-cLA3qsIJbrk)
 - El concepto de arquitectura.
 - Revisión de arquitecturas no Von Neumann.
 - Introducción a las arquitecturas modernas.
