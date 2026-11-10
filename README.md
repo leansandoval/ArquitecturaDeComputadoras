@@ -25,7 +25,18 @@ Ejercicios resueltos de la materia Arquitectura de Computadoras (3638) - 2C 2021
 
 ## Unidad 0: Introducción a las Maquinas de Estados
  
-Repaso de sistemas de numeración. Repaso de lógica combinacional. Lógica secuencial.: Flip-Flop RS sincrónico. Flip - Flop tipo D o Latch, Flip - Flop tipo T. Diagramas de tiempos. Contadores 2^n. Contadores 2*n. Registros. Registros de desplazamiento. Maquinas de estados. 
+- Repaso de sistemas de numeración.
+- Repaso de lógica combinacional.
+- Lógica secuencial.
+ - Flip - Flop RS sincrónico.
+ - Flip - Flop tipo D o Latch
+ - Flip - Flop tipo T.
+- Diagramas de tiempos.
+- Contadores 2^n.
+- Contadores 2*n.
+- Registros.
+- Registros de desplazamiento.
+- Maquinas de estados. 
  
 ## Unidad 1: Tecnologia de los Circuitos Digitales
  
