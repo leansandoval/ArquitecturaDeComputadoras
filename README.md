@@ -308,14 +308,13 @@
 * **Lenguajes**: Assembly.
 
 ## 📁 Estructura del Proyecto
-> *📝 Nota: Esto ayuda a entender cómo están organizados los archivos en tu repositorio.*
-
 ```text
-📦 Arquitectura-Computadoras-UNLaM
- ┣ 📂 Unidad_0
- ┃ ┣ 📜 Ejercicio1.circ
- ┃ ┗ 📜 Respuestas.pdf
- ┣ 📂 Unidad_3_Ensamblador
- ┃ ┗ 📜 HolaMundo.asm
+📦 Arquitectura de Computadoras
+ ┣ 📂 Circuitos
+ ┃ ┣ 📜 Ejercicios.circ
+ ┃ ┗ 📜 Enunciados.pdf
+ ┣ 📂 Assembler
+ ┃ ┗ 📜 Ejercicios.asm
+ ┃ ┗ 📜 Enunciados.pdf
  ┗ 📜 README.md
 ```
