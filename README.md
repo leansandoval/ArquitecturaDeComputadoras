@@ -40,7 +40,22 @@ Ejercicios resueltos de la materia Arquitectura de Computadoras (3638) - 2C 2021
  
 ## Unidad 1: Tecnologia de los Circuitos Digitales
  
-Introducción a la tecnología de circuitos integrados. Concepto de circuito semiconductor. Diodo. Transistor. Principios de funcionamiento. El transistor como elemento de conmutación. Transistores bipolares y unipolares. Utilización en circuitos integrados. Familias de integración. Características dinámicas. Tiempos de propagación. Retardos. Características eléctricas. Corrientes. Tensiones. Aplicaciones prácticas.  
+- Introducción a la tecnología de circuitos integrados.
+- Concepto de circuito semiconductor.
+- Diodo.
+- Transistor.
+  - Principios de funcionamiento.
+  - El transistor como elemento de conmutación.
+  - Transistores bipolares y unipolares.
+- Utilización en circuitos integrados.
+- Familias de integración.
+- Características dinámicas.
+- Tiempos de propagación.
+- Retardos.
+- Características eléctricas.
+- Corrientes.
+- Tensiones.
+- Aplicaciones prácticas.  
  
 ## Unidad 2: Arquitectura de Computadoras 
  	 
@@ -74,4 +89,15 @@ Introducción a la tecnología de circuitos integrados. Concepto de circuito sem
  
 ## Unidad 6: Introducción a las Arquitecturas Modernas 
  
-El concepto de arquitectura. Revisión de arquitecturas no Von Neumann. Introducción a las arquitecturas modernas. Arquitecturas CISC Arquitecturas tipo RISC: Características principales. Principios de funcionamiento. Comparación con las arquitecturas CISC:. La unidad de procesos y la mejora del rendimiento. Pipelining. Objeto de su existencia. Paralelismo de instrucciones. Otras arquitecturas de computadoras.
+- El concepto de arquitectura.
+- Revisión de arquitecturas no Von Neumann.
+- Introducción a las arquitecturas modernas.
+- Arquitecturas CISC vs Arquitecturas tipo RISC
+  - Características principales.
+  - Principios de funcionamiento.
+- Comparación con las arquitecturas CISC:
+  - La unidad de procesos y la mejora del rendimiento.
+- Pipelining.
+- Objeto de su existencia.
+- Paralelismo de instrucciones.
+- Otras arquitecturas de computadoras.
