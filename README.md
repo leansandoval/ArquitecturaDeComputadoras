@@ -22,7 +22,7 @@
 - [Unidad 5: Comunicación con el Mundo Exterior](#unidad-5-comunicación-con-el-mundo-exterior)
 - [Unidad 6: Introducción a las Arquitecturas Modernas](#unidad-6-introducción-a-las-arquitecturas-modernas)
 - [Herramientas Utilizadas](#herramientas-utilizadas)
-
+- [Estructura del Proyecto](#estructura-del-proyecto)
 ---
 
 ## ℹ️ Información de la Asignatura
