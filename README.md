@@ -11,27 +11,29 @@
 <br>
 
 ## 📑 Índice
-- [Información de la Asignatura](#información-de-la-asignatura)
-- [Trayecto - Infraestructura](#trayecto---infraestructura)
+- [Información de la Asignatura](#info)
+- [Trayecto - Infraestructura](#trayecto)
 - [Docentes](#docentes)
-- [Unidad 0: Introducción a las Maquinas de Estados](#unidad-0-introducción-a-las-maquinas-de-estados)
-- [Unidad 1: Tecnologia de los Circuitos Digitales](#unidad-1-tecnologia-de-los-circuitos-digitales)
-- [Unidad 2: Arquitectura de Computadoras](#unidad-2-arquitectura-de-computadoras)
-- [Unidad 3: Introducción a los Lenguajes de Programación](#unidad-3-introducción-a-los-lenguajes-de-programación)
-- [Unidad 4: Unidad de Memoria](#unidad-4-unidad-de-memoria)
-- [Unidad 5: Comunicación con el Mundo Exterior](#unidad-5-comunicación-con-el-mundo-exterior)
-- [Unidad 6: Introducción a las Arquitecturas Modernas](#unidad-6-introducción-a-las-arquitecturas-modernas)
-- [Herramientas Utilizadas](#herramientas-utilizadas)
-- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Unidad 0: Introducción a las Maquinas de Estados](#unidad-0)
+- [Unidad 1: Tecnología de los Circuitos Digitales](#unidad-1)
+- [Unidad 2: Arquitectura de Computadoras](#unidad-2)
+- [Unidad 3: Introducción a los Lenguajes de Programación](#unidad-3)
+- [Unidad 4: Unidad de Memoria](#unidad-4)
+- [Unidad 5: Comunicación con el Mundo Exterior](#unidad-5)
+- [Unidad 6: Introducción a las Arquitecturas Modernas](#unidad-6)
+- [Herramientas Utilizadas](#herramientas)
+- [Estructura del Proyecto](#estructura)
 
 ---
 
+<a id="info"></a>
 ## ℹ️ Información de la Asignatura
 * **Carrera**: Ingeniería en Informática
 * **Materia**: Arquitectura de Computadoras (3638)
 * **Cuatrimestre**: Segundo Cuatrimestre
 * **Año**: 2021
 
+<a id="trayecto"></a>
 ## 🛤️ Trayecto - Infraestructura
 * **Año Académico**: Segundo Año - Primer Cuatrimestre
 * **Responsable / Jefe de cátedra**: Maidana, Carlos Eduardo
@@ -40,6 +42,7 @@
 * **Modalidad**: Virtual
 * **Correlativa anterior**: Fundamentos de Sistemas Embebidos (3631)
  
+<a id="docentes"></a>
 ## 👨‍🏫 Docentes
 * Calaz, Alberto Ezequiel
 * Fiter, Jorge
@@ -50,6 +53,7 @@
 
 ---
 
+<a id="unidad-0"></a>
 ## Unidad 0: Introducción a las Maquinas de Estados
 
 <div align="center">
@@ -74,6 +78,7 @@
  
 ---
 
+<a id="unidad-1"></a>
 ## Unidad 1: Tecnologia de los Circuitos Digitales
 
 <div align="center">
@@ -102,6 +107,7 @@
  
 ---
 
+<a id="unidad-2"></a>
 ## Unidad 2: Arquitectura de Computadoras 
 
 <div align="center">
@@ -167,6 +173,7 @@
  
 ---
 
+<a id="unidad-3"></a>
 ## Unidad 3: Introducción a los Lenguajes de Programación 
 
 <div align="center">
@@ -194,6 +201,7 @@
 
 ---
 
+<a id="unidad-4"></a>
 ## Unidad 4: Unidad de Memoria  
 
 <div align="center">
@@ -235,6 +243,7 @@
  
 ---
 
+<a id="unidad-5"></a>
 ## Unidad 5: Comunicación con el Mundo Exterior
 
 <div align="center">
@@ -279,6 +288,7 @@
  
 ---
 
+<a id="unidad-6"></a>
 ## Unidad 6: Introducción a las Arquitecturas Modernas 
 
 <div align="center">
@@ -303,11 +313,15 @@
 
 ---
 
+<a id="herramientas"></a>
 ## 🛠️ Herramientas Utilizadas
 * **Logisim**: Para simulaciones de circuitos lógicos y máquinas de estados.
 * **Simulador Assembler THRSim11**: Para la ejecución y prueba de código de bajo nivel.
 * **Lenguajes**: Assembly.
 
+---
+
+<a id="estructura"></a
 ## 📁 Estructura del Proyecto
 ```text
 📦 Arquitectura de Computadoras
