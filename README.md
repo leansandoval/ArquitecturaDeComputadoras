@@ -14,13 +14,13 @@
 - [Información de la Asignatura](#info)
 - [Trayecto - Infraestructura](#trayecto)
 - [Docentes](#docentes)
-- [Unidad 0: Introducción a las Maquinas de Estados](#unidad-0)
-- [Unidad 1: Tecnología de los Circuitos Digitales](#unidad-1)
-- [Unidad 2: Arquitectura de Computadoras](#unidad-2)
-- [Unidad 3: Introducción a los Lenguajes de Programación](#unidad-3)
-- [Unidad 4: Unidad de Memoria](#unidad-4)
-- [Unidad 5: Comunicación con el Mundo Exterior](#unidad-5)
-- [Unidad 6: Introducción a las Arquitecturas Modernas](#unidad-6)
+- [Unidad 0: Introducción a las Maquinas de Estados](#unidad-0-introducción-a-las-maquinas-de-estados)
+- [Unidad 1: Tecnologia de los Circuitos Digitales](#unidad-1-tecnologia-de-los-circuitos-digitales)
+- [Unidad 2: Arquitectura de Computadoras](#unidad-2-arquitectura-de-computadoras)
+- [Unidad 3: Introducción a los Lenguajes de Programación](#unidad-3-introducción-a-los-lenguajes-de-programación)
+- [Unidad 4: Unidad de Memoria](#unidad-4-unidad-de-memoria)
+- [Unidad 5: Comunicación con el Mundo Exterior](#unidad-5-comunicación-con-el-mundo-exterior)
+- [Unidad 6: Introducción a las Arquitecturas Modernas](#unidad-6-introducción-a-las-arquitecturas-modernas)
 - [Herramientas Utilizadas](#herramientas)
 - [Estructura del Proyecto](#estructura)
 
@@ -53,7 +53,6 @@
 
 ---
 
-<a id="unidad-0"></a>
 ## Unidad 0: Introducción a las Maquinas de Estados
 
 <div align="center">
@@ -78,7 +77,6 @@
  
 ---
 
-<a id="unidad-1"></a>
 ## Unidad 1: Tecnologia de los Circuitos Digitales
 
 <div align="center">
@@ -107,7 +105,6 @@
  
 ---
 
-<a id="unidad-2"></a>
 ## Unidad 2: Arquitectura de Computadoras 
 
 <div align="center">
@@ -173,7 +170,6 @@
  
 ---
 
-<a id="unidad-3"></a>
 ## Unidad 3: Introducción a los Lenguajes de Programación 
 
 <div align="center">
@@ -201,7 +197,6 @@
 
 ---
 
-<a id="unidad-4"></a>
 ## Unidad 4: Unidad de Memoria  
 
 <div align="center">
@@ -243,7 +238,6 @@
  
 ---
 
-<a id="unidad-5"></a>
 ## Unidad 5: Comunicación con el Mundo Exterior
 
 <div align="center">
@@ -288,7 +282,6 @@
  
 ---
 
-<a id="unidad-6"></a>
 ## Unidad 6: Introducción a las Arquitecturas Modernas 
 
 <div align="center">
