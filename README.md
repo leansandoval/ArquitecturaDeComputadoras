@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Universidad-UNLaM-1F4F90?style=for-the-badge&logo=google-scholar&logoColor=white" alt="UNLaM" />
   <img src="https://img.shields.io/badge/Año-2021-2EA043?style=for-the-badge" alt="2021" />
   <img src="https://img.shields.io/badge/Estado-Completado-blue?style=for-the-badge" alt="Completado" />
+  <img src="https://img.shields.io/badge/Lenguaje-Assembly-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="Lenguaje Assembly" />
 </div>
 
 <br>
