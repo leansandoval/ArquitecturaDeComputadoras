@@ -11,9 +11,9 @@
 <br>
 
 ## 📑 Índice
-- [Información de la Asignatura](#información-de-la-asignatura)
-- [Trayecto - Infraestructura](#trayecto---infraestructura)
-- [Docentes](#docentes)
+- [Información de la Asignatura](#ℹ️-información-de-la-asignatura)
+- [Trayecto - Infraestructura](#🛤️-trayecto---infraestructura)
+- [Docentes](#👨‍🏫-docentes)
 - [Unidad 0: Introducción a las Maquinas de Estados](#unidad-0-introducción-a-las-maquinas-de-estados)
 - [Unidad 1: Tecnología de los Circuitos Digitales](#unidad-1-tecnologia-de-los-circuitos-digitales)
 - [Unidad 2: Arquitectura de Computadoras](#unidad-2-arquitectura-de-computadoras)
@@ -21,8 +21,8 @@
 - [Unidad 4: Unidad de Memoria](#unidad-4-unidad-de-memoria)
 - [Unidad 5: Comunicación con el Mundo Exterior](#unidad-5-comunicación-con-el-mundo-exterior)
 - [Unidad 6: Introducción a las Arquitecturas Modernas](#unidad-6-introducción-a-las-arquitecturas-modernas)
-- [Herramientas Utilizadas](#herramientas-utilizadas)
-- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Herramientas Utilizadas](#🛠️-herramientas-utilizadas)
+- [Estructura del Proyecto](#📁-estructura-del-proyecto)
 
 ---
 
