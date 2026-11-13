@@ -11,7 +11,7 @@
 <br>
 
 ## 📑 Índice
-- [Información de la Asignatura](#info)
+- [Información de la Asignatura](#informacion-de-la-asignatura)
 - [Trayecto - Infraestructura](#trayecto)
 - [Docentes](#docentes)
 - [Unidad 0: Introducción a las Maquinas de Estados](#unidad-0-introducción-a-las-maquinas-de-estados)
@@ -21,12 +21,12 @@
 - [Unidad 4: Unidad de Memoria](#unidad-4-unidad-de-memoria)
 - [Unidad 5: Comunicación con el Mundo Exterior](#unidad-5-comunicación-con-el-mundo-exterior)
 - [Unidad 6: Introducción a las Arquitecturas Modernas](#unidad-6-introducción-a-las-arquitecturas-modernas)
-- [Herramientas Utilizadas](#herramientas)
-- [Estructura del Proyecto](#estructura)
+- [Herramientas Utilizadas](#herramientas-utilizadas)
+- [Estructura del Proyecto](#estructura-del-proyecto)
 
 ---
 
-<a id="info"></a>
+<a id="informacion-de-la-asignatura"></a>
 ## ℹ️ Información de la Asignatura
 * **Carrera**: Ingeniería en Informática
 * **Materia**: Arquitectura de Computadoras (3638)
@@ -306,7 +306,7 @@
 
 ---
 
-<a id="herramientas"></a>
+<a id="herramientas-utilizadas"></a>
 ## 🛠️ Herramientas Utilizadas
 * **Logisim**: Para simulaciones de circuitos lógicos y máquinas de estados.
 * **Simulador Assembler THRSim11**: Para la ejecución y prueba de código de bajo nivel.
@@ -314,7 +314,7 @@
 
 ---
 
-<a id="estructura"></a>
+<a id="estructura-del-proyecto"></a>
 ## 📁 Estructura del Proyecto
 ```text
 📦 Arquitectura de Computadoras
