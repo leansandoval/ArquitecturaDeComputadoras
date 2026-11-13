@@ -26,8 +26,9 @@
 
 ---
 
-<a id="info"></a>
-## ℹ️ Información de la Asignatura
+<a id="info">
+  ## ℹ️ Información de la Asignatura
+</a>
 * **Carrera**: Ingeniería en Informática
 * **Materia**: Arquitectura de Computadoras (3638)
 * **Cuatrimestre**: Segundo Cuatrimestre
@@ -314,7 +315,7 @@
 
 ---
 
-<a id="estructura"></a
+<a id="estructura"></a>
 ## 📁 Estructura del Proyecto
 ```text
 📦 Arquitectura de Computadoras
