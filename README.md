@@ -242,7 +242,7 @@
 ## Unidad 5: Comunicación con el Mundo Exterior
 
 <div align="center">
-  <img src="https://instagram.fepa1-1.fna.fbcdn.net/v/t39.30808-6/758617466_1317694963720511_6322425695492387749_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1MTM4MzYxNjM2MTg5MDU3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Wm8bdQCiMUwQ7kNvwH9_PZA&_nc_oc=AdpGGphUptnPfAWlHYBH1Kw_Jkp9kDk3bZVGLQsA5edpRfNM3ZQqgckzuxsj-UXdWTgZkNgulPMwN0C0SB5M1hOI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa1-1.fna&_nc_gid=itCGc9AcbL-McrKVeHFJZg&_nc_ss=7a22e&oh=00_AQSo07FScq8JGdiwOhSQh79FAMQ2xcqC6UiZUgCR0_sxkQ&oe=6AF8658A" alt="Perifericos" width="500" />
+  <img width="700" alt="Perifericos" src="https://github.com/user-attachments/assets/f533c034-c844-4ea3-8c3f-1501e6dede84" />
   <br>
   <sup><em>Interfaces de E/S y periféricos</em></sup>
 </div>
@@ -286,7 +286,7 @@
 ## Unidad 6: Introducción a las Arquitecturas Modernas 
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQGjaf442zahlw/feedshare-shrink_1280/B4DZXbkBP6G8Ao-/0/1743145419982?e=2147483647&v=beta&t=c1icHTSizcKpSULpSAmxV8Owpv9lxd_-cLA3qsIJbrk" alt="Arquitectura CISC vs RISC" width="500" />
+  <img width="484" height="556" alt="Arquitectura CISC vs RISC" src="https://github.com/user-attachments/assets/165ac26d-da7c-437b-b037-d3a839f70a42" />
   <br>
   <sup><em>Comparativa: Arquitecturas CISC vs RISC</em></sup>
 </div>
