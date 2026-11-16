@@ -57,7 +57,7 @@
 ## Unidad 0: Introducción a las Maquinas de Estados
 
 <div align="center">
-  <img width="756" height="406" alt="Máquina de Estado" src="https://github.com/user-attachments/assets/caea0cfe-0e40-48e7-a06e-5cbf9cf5eb8b" />
+  <img width="700" alt="Máquina de Estado" src="https://github.com/user-attachments/assets/caea0cfe-0e40-48e7-a06e-5cbf9cf5eb8b" />
   <br>
   <sup><em>Representación gráfica de una Máquina de Estados</em></sup>
 </div>
@@ -81,7 +81,7 @@
 ## Unidad 1: Tecnologia de los Circuitos Digitales
 
 <div align="center">
-  <img width="552" height="513" alt="Circuito Digital" src="https://github.com/user-attachments/assets/bb956018-d2f3-4aac-80a8-0e3cd74e492b" />
+  <img width="700" alt="Circuito Digital" src="https://github.com/user-attachments/assets/bb956018-d2f3-4aac-80a8-0e3cd74e492b" />
   <br>
   <sup><em>Esquema de un circuito digital integrado</em></sup>
 </div>
@@ -201,7 +201,7 @@
 ## Unidad 4: Unidad de Memoria  
 
 <div align="center">
-  <img width="800" height="578" alt="Tipos de Memorias" src="https://github.com/user-attachments/assets/341fe7a2-7276-4695-b70a-090e08649593" />
+  <img width="700" alt="Tipos de Memorias" src="https://github.com/user-attachments/assets/341fe7a2-7276-4695-b70a-090e08649593" />
   <br>
   <sup><em>Jerarquía de Memoria de una computadora</em></sup>
 </div>
@@ -286,7 +286,7 @@
 ## Unidad 6: Introducción a las Arquitecturas Modernas 
 
 <div align="center">
-  <img width="484" height="556" alt="Arquitectura CISC vs RISC" src="https://github.com/user-attachments/assets/165ac26d-da7c-437b-b037-d3a839f70a42" />
+  <img width="700" alt="Arquitectura CISC vs RISC" src="https://github.com/user-attachments/assets/165ac26d-da7c-437b-b037-d3a839f70a42" />
   <br>
   <sup><em>Comparativa: Arquitecturas CISC vs RISC</em></sup>
 </div>
