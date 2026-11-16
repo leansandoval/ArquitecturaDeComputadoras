@@ -57,7 +57,7 @@
 ## Unidad 0: Introducción a las Maquinas de Estados
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdJ3MiQDjnR9-BrtwQmfc5WXyqGoDyqSrvg3vTzVT9xQ_RRR_yYimsYpwU&s=10" alt="Maquina de Estado" width="400" />
+  <img width="756" height="406" alt="Máquina de Estado" src="https://github.com/user-attachments/assets/caea0cfe-0e40-48e7-a06e-5cbf9cf5eb8b" />
   <br>
   <sup><em>Representación gráfica de una Máquina de Estados</em></sup>
 </div>
@@ -81,7 +81,7 @@
 ## Unidad 1: Tecnologia de los Circuitos Digitales
 
 <div align="center">
-  <img src="https://i0.wp.com/circuitosdigitalesudblog.wordpress.com/wp-content/uploads/2020/05/circuito-4-decodificador-2.png?ssl=1" alt="Circuito Digital" width="500" />
+  <img width="552" height="513" alt="Circuito Digital" src="https://github.com/user-attachments/assets/bb956018-d2f3-4aac-80a8-0e3cd74e492b" />
   <br>
   <sup><em>Esquema de un circuito digital integrado</em></sup>
 </div>
@@ -109,7 +109,7 @@
 ## Unidad 2: Arquitectura de Computadoras 
 
 <div align="center">
-  <img src="https://scontent.faep28-2.fna.fbcdn.net/v/t39.30808-6/637187224_1320817770093395_6619486516018084071_n.jpg?stp=dst-jpg_tt6&cstp=mx1650x2048&ctp=s1650x2048&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFQUo_M8F5LhUkbDKFfN3Bd7ML2VyaqnQbswvZXJqqdBk06-z80flJg7SvgLcgTxnQdimFgCqeRELmu6MijTebD&_nc_ohc=fA3XECd7e30Q7kNvwHiZINn&_nc_oc=Adr7wcxdO4ZWoJgmRzMsiALRih5LtOooXAuJm4svR961PNwsHPA_a-B8Wfq38DvcpBsGiK7WrDDXm2yTO3uQdocp&_nc_zt=23&_nc_ht=scontent.faep28-2.fna&_nc_gid=mgt9iOFpFRCwpsZAB2_xCA&_nc_ss=7b2a8&oh=00_AQQ_A3rJQngKWPNGzo3JcT9bOOPkugB-YeAIXfk_jYUkEA&oe=6AF86CE5" alt="Arquitectura de Computadoras" width="500" />
+  <img width="700" alt="Arquitectura de Computadoras" src="https://github.com/user-attachments/assets/ac272862-febb-4f30-b238-5a3a53f17db0" />
   <br>
   <sup><em>Estructura y componentes de una arquitectura Von Neumann</em></sup>
 </div>
@@ -174,7 +174,7 @@
 ## Unidad 3: Introducción a los Lenguajes de Programación 
 
 <div align="center">
-  <img src="https://instagram.fepa1-1.fna.fbcdn.net/v/t39.30808-6/742473322_1302344411922233_8150825622133255912_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=MzkzNjk3ODMyMzE0NjcyMTE4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=G4MAw5qTM3AQ7kNvwFBYAYC&_nc_oc=Ado438i33gKW4hHOemK649_ruNUUxEGegWJC_fugi1DCw7nVkh700uaG6W5E8-Rf8nq9AJXE_hZeyo1RdcM1yL5-&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa1-1.fna&_nc_gid=UpVo2axj-BG6tqTLYKfUUQ&_nc_ss=7a22e&oh=00_AQQb2H0tFlLMP4nLV4q35pWwxH2yxIeA-Ku3VCdIrnPGMw&oe=6AF87ADA" alt="Lenguaje Ensamblador" width="500" />
+  <img width="700" alt="Lenguaje Ensamblador" src="https://github.com/user-attachments/assets/0d9e7c49-d41b-486f-9b66-f11135a0f39d" />
   <br>
   <sup><em>Niveles de abstracción: De Lenguaje Máquina a Alto Nivel</em></sup>
 </div>
@@ -201,7 +201,7 @@
 ## Unidad 4: Unidad de Memoria  
 
 <div align="center">
-  <img src="https://sistemasoperativosunivia.wordpress.com/wp-content/uploads/2014/12/blog002.png" alt="Tipos de Memorias" width="500" />
+  <img width="800" height="578" alt="Tipos de Memorias" src="https://github.com/user-attachments/assets/341fe7a2-7276-4695-b70a-090e08649593" />
   <br>
   <sup><em>Jerarquía de Memoria de una computadora</em></sup>
 </div>
